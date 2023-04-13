@@ -7,6 +7,8 @@ Fonctionnalités :
 - Afficher historique
 - Settings
 
+Ajouts / Changemenents :
+
 + Ajout de la partie "settings" avec la motification des paramètre et l'affichage des statuts du traqueur, 
 + Amélioration de l'interface, 
 + Gestion des erreurs utilisateurs, 

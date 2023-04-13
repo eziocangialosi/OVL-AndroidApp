@@ -6,8 +6,12 @@ Fonctionnalités :
 - Afficher position + map
 - Afficher historique
 - Settings
+- Inscription
 
 Ajouts / Changemenents :
 
-+ Ajout de la barre de charge de la batterie
++ Ajout de l'inscription
++ Bouton zoom pour la map
++ Bouton alerte supprimé
++ Statut alerte ajouté
 
