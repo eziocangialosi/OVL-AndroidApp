@@ -7,11 +7,9 @@ Fonctionnalités :
 - Afficher historique
 - Settings
 - Inscription
+- Notification
 
 Ajouts / Changemenents :
 
-+ Inscription
-+ Bouton zoom pour la map fonctionnel
-+ Bouton alerte supprimé
-+ Statut alerte ajouté
++ Possiblité de recevoir des notification
 
