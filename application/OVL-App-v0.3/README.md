@@ -1,4 +1,4 @@
-# Sample Snack app
+# OVL-Application v0.3
 
 Fonctionnalités :
 - Connexion

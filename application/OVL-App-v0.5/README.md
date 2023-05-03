@@ -1,5 +1,5 @@
-# Sample Snack app
-
+# OVL-Application v0.5
+ 
 Fonctionnalités :
 - Connexion
 - Ajout de traqueur
